@@ -1,0 +1,28 @@
+{
+  "name": "readdir-recursive-promise",
+  "version": "0.0.1",
+  "description": "Read directory and return promise or directory object with files",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "readdir",
+    "async",
+    "promise",
+    "recursive",
+    "file"
+  ],
+  "author": "Ole-Kenneth Rangnes <ok@rait.no>",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/olekenneth/node-readdir-recursive-promise.git"
+  },
+  "bugs": {
+    "url": "https://github.com/olekenneth/node-readdir-recursive-promise/issues"
+  },
+  "dependencies": {
+    "bluebird": "~2.9.13"
+  }
+}
